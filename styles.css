@@ -1,0 +1,57 @@
+@charset "utf-8";
+.list_achievements {
+    color: #E97476;
+    background-color: #E5989A;
+}
+.list_achv {
+    color: #F0DDDD;
+    background-color: #EB6163;
+}
+
+.list_about h1 {
+    background-color: #F45053;
+}
+more about me {
+    background-color: #F3E9E9;
+}
+list_about{
+	background-color: #F0646E;
+}
+@charset "utf-8";
+body {
+    background-color: #F75D5D;
+    background-size: auto 0in;
+}
+form {
+    background-color: #F1B8B8;
+}
+body{
+    background-color: #F0646E;
+    font-family: "Times New Roman";
+    font-size: 18px;
+}
+
+.list_about{
+	color: black;
+}
+@charset "utf-8";
+body h2 {
+}
+.list_contact {
+    color: #F16C6E;
+    background-color: #F0D9DA;
+}
+body {
+    color: #0B0B0B;
+}
+.list_contacttt {
+    color: #EFDFDF;
+    background-color: #E55D5F;
+}
+@charset "utf-8";
+body h1 {
+}
+.list_contact {
+}
+/* CSS Document */
+
